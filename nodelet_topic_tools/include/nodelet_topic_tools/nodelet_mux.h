@@ -41,6 +41,7 @@
 #include <nodelet/nodelet.h>
 #include <message_filters/time_synchronizer.h>
 #include <message_filters/pass_through.h>
+#include <boost/bind.hpp>
 
 namespace nodelet
 {

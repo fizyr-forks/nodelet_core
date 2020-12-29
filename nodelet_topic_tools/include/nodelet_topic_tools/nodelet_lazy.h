@@ -40,6 +40,7 @@
 
 #include <ros/ros.h>
 #include <nodelet/nodelet.h>
+#include <boost/bind.hpp>
 #include <boost/thread.hpp>
 #include <string>
 #include <vector>

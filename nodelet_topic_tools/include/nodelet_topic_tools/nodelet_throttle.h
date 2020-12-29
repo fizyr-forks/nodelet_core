@@ -36,6 +36,7 @@
 #include <dynamic_reconfigure/server.h>
 #include <nodelet_topic_tools/NodeletThrottleConfig.h>
 
+#include <boost/bind.hpp>
 #include <boost/thread/locks.hpp>
 #include <boost/thread/mutex.hpp>
 

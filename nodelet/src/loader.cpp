@@ -40,6 +40,7 @@
 #include <nodelet/NodeletList.h>
 #include <nodelet/NodeletUnload.h>
 
+#include <boost/bind.hpp>
 #include <boost/ptr_container/ptr_map.hpp>
 #include <boost/utility.hpp>
 
